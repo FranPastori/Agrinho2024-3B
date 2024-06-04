@@ -1,4 +1,17 @@
-bady{
+body{
 
-    
+    background-color: rgb(132, 135, 137);
+
+}
+
+header{
+    background-color: rgb(222, 168, 202);
+}
+
+.cabecalho_imagem{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
 }
