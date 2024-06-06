@@ -5,6 +5,7 @@ body{
 }
 
 header{
+    display: flex;
     background-color: rgb(222, 168, 202);
 }
 
@@ -15,3 +16,4 @@ header{
     border-radius: 50%;
 
 }
+
